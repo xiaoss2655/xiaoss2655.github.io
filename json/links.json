@@ -1,5 +1,3 @@
-
-
 [
     {
         "name": "Twitter",
@@ -8,11 +6,22 @@
         "url": "https://twitter.com/FF_haiming"
 	},
     {
-        "name": “github”,
+        "name": "Instagram",
         "color": "purple",
-        "icon": "github-box",
-        "url": "https://github.com/xiaoss2655"
+        "icon": "instagram",
+        "url": "https://twitter.com/FF_haiming"
 	},
-
-
+    {
+        "name": "Google+",
+        "color": "orangered",
+        "icon": "google-plus",
+        "url": "https://twitter.com/FF_haiming"
+	},
+    {
+        "name": "YouTube",
+        "color": "red",
+        "icon": "youtube-play",
+        "url": "https://twitter.com/FF_haiming"
+	}
 ]
+
