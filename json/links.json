@@ -3,24 +3,12 @@
         "name": "Twitter",
         "color": "deepskyblue",
         "icon": "twitter",
-        "url": "https://google.com/"
+        "url": "https://twitter.com/FF_haiming/"
 	},
     {
-        "name": "Instagram",
+        "name": "Github",
         "color": "purple",
-        "icon": "instagram",
-        "url": "https://www.instagram.com/jacksonhvisuals/"
-	},
-    {
-        "name": "Google+",
-        "color": "orangered",
-        "icon": "google-plus",
-        "url": "https://plus.google.com/u/0/111376656179530028594"
-	},
-    {
-        "name": "YouTube",
-        "color": "red",
-        "icon": "youtube-play",
-        "url": "https://www.youtube.com/channel/UC2Y49i-pvXKi18Ds-PWSMGw/"
+        "icon": "github-box",
+        "url": "https://github.com/xiaoss2655/"
 	}
 ]
